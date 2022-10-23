@@ -1,0 +1,18 @@
+.btn {
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.btn a {
+    text-decoration: none;
+    display: block;
+    padding: 4px 12px;
+    border: 1px solid #00bcd4;
+    color: #00bcd4;
+    text-transform: uppercase;
+}
+
+.btn a:hover {
+    color: #fff;
+    background-color: #00bcd4;
+}
